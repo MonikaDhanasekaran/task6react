@@ -165,7 +165,7 @@ function Book(){
     return(
         <div style={{ padding: "10px", color: 'black' }}>
 
-            <h2>Book Register Form</h2>
+            <h2>Book Donation Form</h2>
 
             <Box sx={{ flexGrow: 1 }}>
 
